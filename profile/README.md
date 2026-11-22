@@ -1,6 +1,6 @@
 # UNION OF FREEDOM (UOF)
 
-> *"WE ARE THE FREEDOM - LOOKING FOR THE FREEDOM."*
+> *"LOOKING FOR THE FREEDOM WITH A CODE".*
 
 **UNION OF FREEDOM (UOF)** is an independent security research and systems engineering collective focused on low-level internals, hardware side-channel analysis, and practical defensive tooling.
 
